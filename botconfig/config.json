@@ -1,30 +1,30 @@
 {
-    "token": "GET from: https://discord.com/developers/applications",
+    "token": "Nzk5OTcyOTYwMjc4MTUxMTc5.YALW4A.gnWglocUI-8YXaRZ14CKTZeDnDQ",
     "prefix": "//",
     "ownerIDS": [
-        "442355791412854784"
+        "388274270238932993"
     ],
-    "fnbr": "GET from: https://fnbr.co",
-    "fortnitetracker": "GET from: https://fortnitetracker.com",
-    "memer_api": "GET from: https://discord.gg/Mc2FudJkgP",
+    "fnbr": "5ab16c0e5f957f27504aa4e4",
+    "fortnitetracker": "https://api.fortnitetracker.com/v1/powerrankings/{platform}/{region}/{epic",
+    "memer_api": "PLpKWOzCIDV",
     "status": {
         "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
-        "text2": "By: discord.gg/dcdev",
+        "text2": "yuk bisa",
         "type": "PLAYING",
-        "url": "https://twitch.tv/milratodiscordbot"
+        "url": "https://twitch.tv/"
     },
     "clientsettings": {
         "nodes": [
             {
-                "host": "localhost",
-                "port": 2333,
+                "host": "lava.link",
+                "port": 80,
                 "password": "youshallnotpass"
             }
         ]
     },
     "spotify": {
-        "clientSecret": "GET from: https://developers.spotify.com",
-        "clientID": "GET from: https://developers.spotify.com"
+        "clientSecret": "1b35350ed00b4b19a637847e8fc0e050",
+        "clientID": "295398e76d5846019c67f771e0b2f871"
     },
     "settings": {
         "COMMENT": "time_delay 0 === insta leave",
